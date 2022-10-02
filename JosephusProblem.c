@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int check_list[10000] = {[0 ... 1000 - 1] = 1};
+    int check_list[10000] = {[0 ... 10000 - 1] = 1};
     int total,killed,del=1,i=0,diff;
 
     printf("Enter Number of Persons: ");
