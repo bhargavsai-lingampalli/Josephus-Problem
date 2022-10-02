@@ -14,7 +14,8 @@ int main()
         while(check_list[i%total]!=0)
         {
             if(del!=1 && del<diff)
-            {   check_list[i%total]=0;
+            {   
+                check_list[i%total]=0;
                 killed--;
             }
             del+=1;
