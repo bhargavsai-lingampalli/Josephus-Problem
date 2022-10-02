@@ -13,7 +13,7 @@ int main()
 
     killing=total-1;
 
-    if(diff>2 && total<32000 && i==2)
+    if(diff>2 && total<limit && i==2)
     {
         for(i=0; killing; i++)
         {
