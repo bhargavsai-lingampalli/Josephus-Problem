@@ -10,3 +10,7 @@ The problem—given the number of people,and number to be killed—is to choose 
 ### More info
 - Credits: [***Wikipedia***](https://en.m.wikipedia.org/wiki/Main_Page)
 - for more info visit: [Wikipedia](https://en.m.wikipedia.org/wiki/Josephus_problem)
+## License
+
+[![MIT License](https://img.shields.io/badge/Licence%20-MIT-brightgreen)](https://github.com/BhargavSai-Lingampalli/Josephus-Problem/blob/main/Licence)
+
